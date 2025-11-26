@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0420\u0412\\1 \u043B\u0430\u0431\u0430\\1 \u043B\u0430\u0431\u0430\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B8D4EE8-2886-4D91-97CC-D5C5BA746DF9}|1 \u043B\u0430\u0431\u0430\\1 \u043B\u0430\u0431\u0430.vcxproj|D:\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0420\u0412\\1 \u043B\u0430\u0431\u0430\\1 \u043B\u0430\u0431\u0430\\1 \u043B\u0430\u0431\u0430\\1 \u043B\u0430\u0431\u0430.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7B8D4EE8-2886-4D91-97CC-D5C5BA746DF9}|1 \u043B\u0430\u0431\u0430\\1 \u043B\u0430\u0431\u0430.vcxproj|solutionrelative:1 \u043B\u0430\u0431\u0430\\1 \u043B\u0430\u0431\u0430.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,11 +17,26 @@
       "DocumentGroups": [
         {
           "DockedHeight": 107,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xstring",
+              "ViewState": "AgIAAL0IAAAAAAAAAAAEwM8IAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-26T16:01:53.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "1 \u043B\u0430\u0431\u0430.cpp",
               "DocumentMoniker": "D:\\5 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u0421\u0420\u0412\\1 \u043B\u0430\u0431\u0430\\1 \u043B\u0430\u0431\u0430\\1 \u043B\u0430\u0431\u0430\\1 \u043B\u0430\u0431\u0430.cpp",
               "RelativeDocumentMoniker": "1 \u043B\u0430\u0431\u0430\\1 \u043B\u0430\u0431\u0430.cpp",
@@ -28,10 +46,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-26T15:51:20.94Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
