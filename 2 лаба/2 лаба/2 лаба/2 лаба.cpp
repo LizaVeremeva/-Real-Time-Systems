@@ -5,7 +5,7 @@
 #include <chrono>
 
 // Глобальный мьютекс
-std::mutex m;
+//std::mutex m;
 
 // Функция, выполняемая в потоке
 void Func(std::string name) {
@@ -20,9 +20,9 @@ void Func(std::string name) {
         i += 1e-9; // Прибавляем 10^(-9)
     }
     // Вывод результата с защитой мьютексом
-    m.lock();
+    //m.lock();
     std::cout << name << ": " << i << std::endl;
-    m.unlock();
+    //m.unlock();
 }
 
 int main() {
